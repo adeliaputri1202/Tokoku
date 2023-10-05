@@ -2,7 +2,7 @@
 const pData = [
     {
       id: 1,
-      title: "Product 1",
+      title: "Product 1", 
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       imageSrc: "/img/6.png",
       linkTo: "/halaman-1",

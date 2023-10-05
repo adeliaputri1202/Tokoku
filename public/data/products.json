@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "nama": "Laptop Lenovo",
+            "urlPoster": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/1/6/0ec64ced-b023-4a85-84cd-cfbe0806e92a.jpg",
+            "price": "12.000.000",
+            "stock": 10,
+            "desc": "Laptop murah kualitas ga murahan"
+        },
+        {
+            "nama": "Headphone Lenovo",
+            "urlPoster": "https://id-test-11.slatic.net/p/9581f6cadd044bd10745124eb9d8299a.jpg",
+            "price": "300.000",
+            "stock": 15,
+            "desc": "Headphone dengan kualitas premium"
+        },
+        {
+            "nama": "Samsung Z-Flip",
+            "urlPoster": "https://images.samsung.com/uk/smartphones/galaxy-z-flip3-5g/buy/02_Carousel/03-BasicColor/zflip3_carousel_foldunfoldcombo_lavender_mo.jpg",
+            "price": "14.000.000",
+            "stock": 8,
+            "desc": "Smartphone dengan teknologi terbaru"
+        },
+        {
+            "nama": "Laptop Asus",
+            "urlPoster": "https://dlcdnwebimgs.asus.com/gain/ba3d1966-0081-4ee2-ad23-1236a3bff982/",
+            "price": "10.000.000",
+            "stock": 8,
+            "desc": "elegan, ringkas, tipis dan ringan."
+        },
+        {
+            "nama": "Powerpuff Girls",
+            "urlPoster": "https://cdn-image02.casetify.com/usr/4787/34787/~v284/29743603x2_iphone-15__color_pink_16006197.png.1000x1000-w.m80.webp",
+            "price": "1.200.000",
+            "stock": 8,
+            "desc": "Case iPhone 15 dengan desain unik"
+        }
+    ]
+}
