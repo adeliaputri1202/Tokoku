@@ -13,7 +13,7 @@ const CardComponent = ({ nama, price, stock, desc, urlPoster }) => (
     </div>
   </div>
 );
-
+  
 const Product = () => {
   const [productData, setProductData] = useState([]);
 
@@ -21,7 +21,11 @@ const Product = () => {
     // Mengambil data dari file JSON eksternal
     fetch("/data/products.json")
       .then((response) => response.json())
-      .then((data) => setProductData(data.products))
+      .then((data) =>
+      {
+        console.log(data); // Log the entire JSON data to the console
+        setProductData(data.products);
+      })
       .catch((error) => console.error('Gagal memuat data produk:', error));
   }, []);
 
